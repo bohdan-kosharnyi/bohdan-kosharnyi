@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### ✨ About Me:
+- 🔭 I’m working as a Data Scientist.
+- 🌱 I’m currently learning new ML models/classifiers and starting to learn simple DL.
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-bohdan_kosharnyi-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/bohdan-kosharnyi-05b51b258/))
 <!--
 **bohdan-kosharnyi/bohdan-kosharnyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
